@@ -1,0 +1,23 @@
+Téma: Halamzállapotok
+Halmazállapotváltozások
+Hőterjedési módok
+
+Bootstrapes navigáció:
+menüpontok:
+a halmazállapotok nevei, a halmazállapotváltozások nevei, a hőterjedési módok a menüpont
+Mindegyik menüponthoz egy-egy weblap tartozik, ugynazzal a fejléc navigációval.
+Mindig van egy aktív menüpont
+Alkalmazz egyéb osztályokat a navigáció formai megadására
+A halmazállapotoknál egy-egy mondat, egy ilusztrációs kép elegendő (bekezdés, img)
+A változásoknál definíció, kép, gyakorlati megvalósítás vagy hétköznap tapasztalatok, vagy kísérletek szöveg és kép vagy videó formában, card bootsrap elmeken sorokba (row) rendezbe és reszponzivitás beállítása , a col-lg, col-md- stb. -vel
+, valamint itt kellene táblázatot (table és bootstrapes stílusbeállítás) (olvadáspont, forráspont, olvadáshő, fagyáshő néhány anag esetében)
+A hőterjedési módoknál egy kis szöveg egy kis kép minden hőterjedési módról. Itt az elején felsorolás (html), hogy milyen hőterjedési módok vannak
+Saját css is legyen, pl. a felsorolás stílusát saját css-ben állítsd be. Saját css-ben az oldalk betűjelllemzőit is. 
+Használj margin és padding beállításokat néhány helyen,bootstrapeset.
+
+Ajánlott segédanyagok: w3schools bootstrap 5 és https://getbootstrap.com/docs/4.0/utilities/spacing/
+https://bootstrapshuffle.com/classes/sizing/w-100
+nézegessétek: https://bootstrapshuffle.com/classes
+
+Forrásokat feltüntetni, linkként, ha weboldal
+githubon vezesd, egyéni projekt
